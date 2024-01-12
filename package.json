@@ -1,0 +1,23 @@
+{
+  "name": "node-red-jupyter-tools",
+  "version": "0.1.0",
+  "description": "Tools to manage and communicate with Jupyter servers. Allows the execution of python scripts from Node-Red on a persistent session, with data I/O.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfjarschel/node-red-jupyter-tools.git"
+  },
+  "keywords": [
+    "jupyter",
+    "python"
+  ],
+  "author": "Paulo Felipe Jarschel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pfjarschel/node-red-jupyter-tools/issues"
+  },
+  "homepage": "https://github.com/pfjarschel/node-red-jupyter-tools#readme"
+}
